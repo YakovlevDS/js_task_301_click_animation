@@ -1,0 +1,14 @@
+
+body {
+  margin: 20%;
+  background: rgb(153, 86, 86);
+  overflow: hidden;
+}
+h1 {
+  display: block;
+  margin: 0, auto;
+}
+.dot {
+  position: absolute;
+  border-radius: 50%;
+}
